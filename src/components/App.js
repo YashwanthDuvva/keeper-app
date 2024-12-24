@@ -41,8 +41,11 @@ function App() {
     });
   }
 
+  //component
+  
   return (
     <>
+    
       <Header />
       <CreateArea
         changeFunc={handleChange}
