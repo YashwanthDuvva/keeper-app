@@ -41,8 +41,8 @@ function App() {
     });
   }
 
-  //component
-  
+  //components
+
   return (
     <>
     
