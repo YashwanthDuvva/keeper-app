@@ -14,7 +14,7 @@ function Header(){
 
     return(
         <>
-        <h3 className="greetings" >{greet} Yashwanth</h3>
+        <h3 className="greetings" style={{color:"#1a1a1a"}}>{greet} Yashwanth</h3>
         <header>
             
             <h1>Keeper</h1>
